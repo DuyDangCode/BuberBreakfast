@@ -1,0 +1,6 @@
+@BuberBreakfast_HostAddress = http://localhost:5238
+
+GET {{BuberBreakfast_HostAddress}}/break/1
+Accept: application/json
+
+###
